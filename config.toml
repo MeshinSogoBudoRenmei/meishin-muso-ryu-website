@@ -29,7 +29,7 @@ publishDir = "docs"
 
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
-		avatar = "avatar.jpg"
+		avatar = "avatar.png"
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "**Meishin Muso Ryu**<br> Anyplace, Anytime, Any Situation"
 		# The icons will be shown if you enter your username
