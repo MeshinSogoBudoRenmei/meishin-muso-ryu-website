@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "codewritingcow.github.io/meishin-muso-ryu-website/"
 languageCode = "en-us"
 title = "Strata"
 theme = "hugo-strata-theme"
@@ -7,6 +7,8 @@ disqusShortname = ""
 googleAnalytics = ""
 # Define how many posts should appear on a site
 paginate = 10
+# Change Hugo publish directory to docs, so website can be deployed to GitHub Pages
+publishDir = "docs"
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
