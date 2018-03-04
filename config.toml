@@ -42,8 +42,7 @@ paginate = 10
 
 		copyright = [
 			"&copy; Meishin Ryu Sogo Budo Renmei",
-			"Design: [HTML5 UP](//html5up.net)",
-			"Demo Images: [Unsplash](//unsplash.com/)"
+			"Design: [HTML5 UP](//html5up.net)"
 		]
 
 
@@ -54,7 +53,7 @@ paginate = 10
 
 
 	[params.portfolio]
-		hide  = false
+		hide  = true
 		title = "Recent Work"
 
 		# The images and thumbnails are stored under static/images
