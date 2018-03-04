@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Strata</title>
-    <link>codewritingcow.github.io/meishin-muso-ryu-website/</link>
+    <link>https://codewritingcow.github.io/meishin-muso-ryu-website/</link>
     <description>Recent content on Strata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Feb 2018 03:42:00 -0500</lastBuildDate>
     
-	<atom:link href="codewritingcow.github.io/meishin-muso-ryu-website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://codewritingcow.github.io/meishin-muso-ryu-website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videos</title>
-      <link>codewritingcow.github.io/meishin-muso-ryu-website/videos/</link>
+      <link>https://codewritingcow.github.io/meishin-muso-ryu-website/videos/</link>
       <pubDate>Tue, 27 Feb 2018 03:42:00 -0500</pubDate>
       
-      <guid>codewritingcow.github.io/meishin-muso-ryu-website/videos/</guid>
+      <guid>https://codewritingcow.github.io/meishin-muso-ryu-website/videos/</guid>
       <description>Here are videos of Meishin Muso Ryu iaido demonstrations. Follow us on YouTube: https://www.youtube.com/user/MeishinMusoRyu
    Two Person Iai and Cutting with Matsushita Sensei and his Sempai, Fukaya Sensei
   2015 Philadelphia Cherry Blossom Festival    Three-Person Iaido demonstration
@@ -27,29 +27,29 @@
     
     <item>
       <title>Members</title>
-      <link>codewritingcow.github.io/meishin-muso-ryu-website/members/</link>
+      <link>https://codewritingcow.github.io/meishin-muso-ryu-website/members/</link>
       <pubDate>Tue, 27 Feb 2018 03:14:30 -0500</pubDate>
       
-      <guid>codewritingcow.github.io/meishin-muso-ryu-website/members/</guid>
+      <guid>https://codewritingcow.github.io/meishin-muso-ryu-website/members/</guid>
       <description>   Here is a list of our instructors and members in Meishin Muso Ryu.
 Instructors Matsushita Shuji sensei  Kendo rank: 7th dan kyoshi Iaido rank: Lorem ipsum  Matsushita Katsunori  Kendo rank: 5th dan Iaido rank: Lorem ipsum  Matsushita Kensaku  Kendo rank: Lorem ipsum Iaido rank: Lorem ipsum  Thomas Hill  Kendo rank: 3rd dan Iaido rank: Lorem ipsum  Members Rajagopalan Subrahmanian  Kendo rank: 3rd dan Iaido rank: Lorem ipsum  Michael Luckenbill  Kendo rank: 1st dan Iaido rank: Lorem ipsum Award: Third place, Men&amp;rsquo;s Kyu division, Boston Goyokai Tournament 2016  Gary Pang  Kendo rank: 1st dan Iaido rank: Sankyu Award: Third place, Mudansha division, Garden State Kendo Tournament 2016  Marcus Hawkins  Iaido rank: Lorem ipsum  Melissa Kestle  Kendo rank: Mudansha Iaido rank: Lorem ipsum  Pete Kraus  Kendo rank: Mudansha Iaido rank: Lorem ipsum  </description>
     </item>
     
     <item>
       <title>Instructors</title>
-      <link>codewritingcow.github.io/meishin-muso-ryu-website/instructors/</link>
+      <link>https://codewritingcow.github.io/meishin-muso-ryu-website/instructors/</link>
       <pubDate>Tue, 27 Feb 2018 03:11:12 -0500</pubDate>
       
-      <guid>codewritingcow.github.io/meishin-muso-ryu-website/instructors/</guid>
+      <guid>https://codewritingcow.github.io/meishin-muso-ryu-website/instructors/</guid>
       <description>Matsushita Shuji sensei Kendo 7th Dan kyoshi Shuji Matsushita Sensei was born in 1950 on the island of Kyushu, Japan. Matsushita Sensei started practicing kendo at the age of 7. In 1974, he entered the Shin Kage Ryu Integrated Budo Dojo (Taigi Juku Dojo) where he was apprenticed (uchideshi) for the next 7 years in Kendo, Iaido, Taijitsu, Judo and Karate. At 31, he received a Master’s Degree in Shinkage Ryu.</description>
     </item>
     
     <item>
       <title>What Are the Four Sicknesses of Kendo?</title>
-      <link>codewritingcow.github.io/meishin-muso-ryu-website/post/migrate-from-jekyll/</link>
+      <link>https://codewritingcow.github.io/meishin-muso-ryu-website/post/migrate-from-jekyll/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>codewritingcow.github.io/meishin-muso-ryu-website/post/migrate-from-jekyll/</guid>
+      <guid>https://codewritingcow.github.io/meishin-muso-ryu-website/post/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -57,20 +57,20 @@ Instructors Matsushita Shuji sensei  Kendo rank: 7th dan kyoshi Iaido rank: Lore
     
     <item>
       <title>The Virtues of Kirikaeshi</title>
-      <link>codewritingcow.github.io/meishin-muso-ryu-website/post/go-is-for-lovers/</link>
+      <link>https://codewritingcow.github.io/meishin-muso-ryu-website/post/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>codewritingcow.github.io/meishin-muso-ryu-website/post/go-is-for-lovers/</guid>
+      <guid>https://codewritingcow.github.io/meishin-muso-ryu-website/post/go-is-for-lovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Ki-Ken-Tai-Ichi in Kendo</title>
-      <link>codewritingcow.github.io/meishin-muso-ryu-website/post/hugo-is-for-lovers/</link>
+      <link>https://codewritingcow.github.io/meishin-muso-ryu-website/post/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>codewritingcow.github.io/meishin-muso-ryu-website/post/hugo-is-for-lovers/</guid>
+      <guid>https://codewritingcow.github.io/meishin-muso-ryu-website/post/hugo-is-for-lovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -81,10 +81,10 @@ Follow the following steps:
     
     <item>
       <title>What is Ichi Byoshi?</title>
-      <link>codewritingcow.github.io/meishin-muso-ryu-website/post/creating-a-new-theme/</link>
+      <link>https://codewritingcow.github.io/meishin-muso-ryu-website/post/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>codewritingcow.github.io/meishin-muso-ryu-website/post/creating-a-new-theme/</guid>
+      <guid>https://codewritingcow.github.io/meishin-muso-ryu-website/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
