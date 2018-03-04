@@ -1,6 +1,6 @@
 baseurl = "https://codewritingcow.github.io/meishin-muso-ryu-website/"
 languageCode = "en-us"
-title = "Strata"
+title = "Meishin Muso Ryu"
 theme = "hugo-strata-theme"
 disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
