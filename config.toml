@@ -111,7 +111,7 @@ publishDir = "docs"
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		content = " // **TODO: SET UP FORM SO IT WORKS.** // Would you like to train in Iaido or Kendo? Do you have a question for Matsushita Sensei about martial arts? Send us a message with the form below. We will respond as soon as possible."
 
 		# This can be exact coordinates or a searchable address in google maps
 		gmaps_address = "40.982062,-75.197148"
