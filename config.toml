@@ -1,4 +1,4 @@
-baseurl = "codewritingcow.github.io/meishin-muso-ryu-website/"
+baseurl = "https://codewritingcow.github.io/meishin-muso-ryu-website/"
 languageCode = "en-us"
 title = "Strata"
 theme = "hugo-strata-theme"
