@@ -46,7 +46,10 @@ publishDir = "docs"
 			"&copy; Meishin Ryu Sogo Budo Renmei",
 			"Design: [HTML5 UP](//html5up.net)"
 		]
-
+	
+	[params.rss]
+		# RSS icon will be shown in sidebar if set to false
+		hide = true
 
 	[params.about]
 		hide  = false
