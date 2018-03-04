@@ -31,7 +31,7 @@ publishDir = "docs"
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.png"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**Meishin Muso Ryu**<br> Anyplace, Anytime, Any Situation"
+		bio = "**MEISHIN MUSO RYU**<br> Anytime, Anyplace, Any Situation"
 		# The icons will be shown if you enter your username
 		twitter = "shudokandojo"
 		github = ""
@@ -99,6 +99,11 @@ publishDir = "docs"
 	[params.recentposts]
 		hide  = false
 		title = "Recent blog posts"
+	
+	[params.schedule]
+		hide = false
+		title = "Class Schedule"
+		content = "<h3>Iaido</h3>Mondays: 6&ndash;7 p.m. Sundays: 7&ndash;8:30 a.m.<br><br><h3>Kendo</h3> Mondays: 7&ndash;8 p.m. Wednesdays: 9&ndash;10 p.m. Fridays: 8&ndash;9 p.m. Sundays: 8:30&ndash;10 a.m."
 
 	[params.contact]
 		hide  = false

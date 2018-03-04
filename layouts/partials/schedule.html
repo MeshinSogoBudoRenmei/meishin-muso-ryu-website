@@ -1,0 +1,6 @@
+<section>
+    {{ with .Site.Params.schedule.title }}
+    <h2>{{ . | markdownify }}</h2>{{ end }}
+    {{ with .Site.Params.schedule.content }}
+    <p>{{ . | markdownify }}</p>{{ end }}
+</section>
