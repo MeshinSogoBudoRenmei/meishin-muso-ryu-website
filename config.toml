@@ -120,7 +120,10 @@ publishDir = "docs"
 			"Stroudsburg, PA 18360",
 			"United States"
 		]
-		phone = "(570) 420-9282"
+		phone = "(570) 269-0050"
+		phonename = "Katsunori Matsushita"
+		phone2 = "(570) 350-8072"
+		phonename2 = "Tom Hill"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
