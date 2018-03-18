@@ -34,6 +34,7 @@ publishDir = "docs"
 		bio = "**MEISHIN MUSO RYU**<br> Anytime, Anyplace, Any Situation"
 		# The icons will be shown if you enter your username
 		twitter = "shudokandojo"
+		youtube = "MeishinMusoRyu"
 		github = ""
 		gitlab = ""
 		dribbble = ""
