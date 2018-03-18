@@ -14,7 +14,7 @@ publishDir = "docs"
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Meishin Muso Ryu"
-	description = "Official website of Meishin Muso Ryu, an Iaido style passed down from Shin Kage Ryu"
+	description = "Official website of Meishin Muso Ryu (明神無想流), an Iaido style passed down from Shinkage Ryu"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -55,7 +55,7 @@ publishDir = "docs"
 	[params.about]
 		hide  = false
 		title = "Meishin Muso Ryu"
-		content = "Meishin Muso Ryu (明神無想流) is an Iaido style passed down from Shin Kage Ryu (新陰流) which is currently at its 27th head instructor. Our head is Matsushita Shuji sensei. We are based in Stroudsburg, Pennsylvania."
+		content = "Meishin Muso Ryu (明神無想流) is an Iaido style passed down from Shinkage Ryu (新陰流) which is currently at its 27th head instructor. Our head is Matsushita Shuji sensei. We are based in Stroudsburg, Pennsylvania."
 
 
 	[params.portfolio]

@@ -9,7 +9,7 @@ Here is a list of our instructors and members in Meishin Muso Ryu.
 ---
 # Instructors
 
-### Matsushita Shuji sensei
+### Matsushita Shuji Sensei
 * Kendo rank: 7th dan kyoshi
 * Iaido rank: Lorem ipsum
 
