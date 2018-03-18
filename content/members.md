@@ -23,7 +23,7 @@ Here is a list of our instructors and members in Meishin Muso Ryu.
 
 ### Thomas Hill
 * Kendo rank: 3rd dan
-* Iaido rank: Lorem ipsum
+* Iaido rank: 4th dan
 
 ---
 # Members

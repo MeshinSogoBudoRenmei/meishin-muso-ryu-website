@@ -34,6 +34,6 @@ In 2002, Matsushita Sensei founded the Meishin Muso Ryu school of Iaido and has 
 {{< figure src="../images/Subaru Cherry Blossom Festival 2014 Tom Hill 02 (2).jpg" class="image fit" >}}
 
 # Thomas Hill
-### Jujitsu 7th Dan, Kendo 3rd Dan
+### Jujitsu 7th Dan, Iaido 4th Dan
 
-Professor Thomas Hill has studied Danzan Ryu Jujitsu since 1971. In 1982 he opened his dojo, Shumpukan, in Stroudsburg, Pennsylvania. He holds the rank of 3rd Dan in Kendo with the All American Kendo Association and the rank of 3rd Dan in Iaido in the Meshin Muso Ryu style.
+Professor Thomas Hill has studied Danzan Ryu Jujitsu since 1971. In 1982 he opened his dojo, Shumpukan, in Stroudsburg, Pennsylvania. He holds the rank of 4th Dan in Iaido in the Meishin Muso Ryu style; and the rank of 3rd Dan in Kendo with the All United States Kendo Federation.
