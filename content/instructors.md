@@ -8,7 +8,7 @@ draft: false
 # Matsushita Shuji Sensei
 ### Kendo 7th Dan kyoshi
 
-Shuji Matsushita Sensei was born in 1950 on the island of Kyushu, Japan. Matsushita Sensei started practicing kendo at the age of 7. In 1974, he entered the Shinkage Ryu Integrated Budo Dojo (Taigi Juku Dojo) where he apprenticed for the next seven years in Kendo, Iaido, Taijitsu, Judo and Karate. At 31, he received a Master’s Degree in Shinkage Ryu.
+Matsushita Shuji (松下 修治) was born in 1950 on the island of Kyushu, Japan. Matsushita Sensei started practicing kendo at the age of 7. In 1974, he entered the Shinkage Ryu Integrated Budo Dojo (Taigi Juku Dojo) where he apprenticed for the next seven years in Kendo, Iaido, Taijitsu, Judo and Karate. At 31, he received a Master’s Degree in Shinkage Ryu.
 
 During this time, he left his mark in many tournaments. He finished three times within the Top 8 of the All Tokyo Kendo Championship; Team Division Championship of the Shinjuku Kendo Championship; and the Team and Individual Divisions Champion of the Koshigaya Open Kendo Championship.
 
