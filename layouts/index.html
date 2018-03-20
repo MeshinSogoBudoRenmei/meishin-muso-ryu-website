@@ -15,6 +15,10 @@
 		{{ partial "schedule" . }}
 	{{ end }}
 
+	{{ if not .Site.Params.directions.hide }}
+		{{ partial "directions" . }}
+	{{ end }}	
+
 	{{ if not .Site.Params.contact.hide }}
 		{{ partial "contact" . }}
 	{{ end }}

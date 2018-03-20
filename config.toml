@@ -109,6 +109,11 @@ publishDir = "docs"
 		title = "Class Schedule"
 		content = "<h3>Iaido</h3>Mondays: 6&ndash;7 p.m. Sundays: 7&ndash;8:30 a.m.<br><br><h3>Kendo</h3> Mondays: 7&ndash;8 p.m. Wednesdays: 8&ndash;9 p.m. Fridays: 8&ndash;9:30 p.m. Sundays: 8:30&ndash;10 a.m."
 
+	[params.directions]
+		hide = false
+		title = "Directions"
+		content = "Our dojo is located right off Interstate 80. We are about an hour's drive from Wilkes-Barre and Scranton; 1 hour 30 minutes from New York City; and 1 hour 43 minutes from Philadelphia."
+
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
