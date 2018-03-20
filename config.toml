@@ -55,7 +55,7 @@ publishDir = "docs"
 	[params.about]
 		hide  = false
 		title = "Meishin Muso Ryu"
-		content = "<p>Meishin Muso Ryu (明神無想流) is an Iaido style passed down from Shinkage Ryu (新陰流) which is currently at its 27th head instructor. Our head is <a href='/instructors'>Matsushita Shuji Sensei.</a></p><p>We are based in Stroudsburg, a town in the beautiful Poconos region of northeastern Pennsylvania.</p>"
+		content = "<p>Meishin Muso Ryu (明神無想流) is an Iaido style passed down from Shinkage Ryu (新陰流) which is currently at its 27th head instructor. Our head is Matsushita Shuji Sensei.</p><p>We are based in Stroudsburg, a town in the beautiful Poconos region of northeastern Pennsylvania.</p>"
 
 
 	[params.portfolio]
