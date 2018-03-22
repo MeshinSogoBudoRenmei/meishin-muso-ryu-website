@@ -24,7 +24,7 @@ publishDir = "docs"
 
 	# Add custom assets with their paths relative to the static folder
 	custom_js   = []
-	custom_css  = []
+	custom_css  = ["css/custom.css"]
 
 
 	[params.sidebar]
