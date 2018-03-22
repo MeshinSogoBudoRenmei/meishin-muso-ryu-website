@@ -8,11 +8,11 @@ draft: false
 # Matsushita Shuji Sensei
 ### Kendo 7th Dan kyoshi
 
-Matsushita Shuji (松下 修治) was born in 1950 on the island of Kyushu, Japan. Matsushita Sensei started practicing kendo at the age of 7. In 1974, he entered the Shinkage Ryu Integrated Budo Dojo (Taigi Juku Dojo) where he apprenticed for the next seven years in Kendo, Iaido, Taijitsu, Judo and Karate. At 31, he received a Master’s Degree in Shinkage Ryu.
+Matsushita Shuji (松下 修治) was born in 1950 on the island of Kyushu, Japan. Matsushita Sensei started practicing kendo at the age of 7. In 1974, he entered the Shinkage Ryu Integrated Budo Dojo, where he apprenticed for the next seven years in Kendo, Iaido, Taijitsu, Judo and Karate. At 31, he received a Master’s Degree in Shinkage Ryu.
 
 During this time, he left his mark in many tournaments. He finished three times within the Top 8 of the All Tokyo Kendo Championship; Team Division Championship of the Shinjuku Kendo Championship; and the Team and Individual Divisions Champion of the Koshigaya Open Kendo Championship.
 
-In 1978, Matsushita Sensei was featured in the documentary, *Budo*, which won awards at the Miami International Film Festival.
+In 1978, Matsushita Sensei was featured in the documentary, <a href="https://en.wikipedia.org/wiki/Budo:_The_Art_of_Killing" target="_blank">*Budo*</a>, which won awards at the Miami International Film Festival.
 
 In 1998, he founded Shu Do Kan Dojo in Stroudsburg, Pennsylvania, teaching classes in Kendo, Iaido and Taijitsu. He also coached and taught the Cornell Kendo Club, the Rochester Institute of Technology Kendo Club and the Towanda High School Kendo Club.
 
