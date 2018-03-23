@@ -55,7 +55,7 @@ publishDir = "docs"
 	[params.about]
 		hide  = false
 		title = "Meishin Muso Ryu"
-		content = "<p>Meishin Muso Ryu (明神無想流) is an Iaido style passed down from Shinkage Ryu. Our dojo is in the Poconos region of Pennsylvania. Our head is Matsushita Shuji Sensei.</p><p>We invite you to train with us.</p>"
+		content = "<p>Meishin Muso Ryu (明神無想流) is an Iaido style passed down from Shinkage Ryu. Our head is Matsushita Shuji Sensei.</p><p>We teach Iaido and Kendo classes. Our dojo is in the Poconos region of Pennsylvania. We invite you to train with us.</p>"
 
 
 	[params.portfolio]
@@ -107,17 +107,17 @@ publishDir = "docs"
 	[params.schedule]
 		hide = false
 		title = "Class Schedule"
-		content = "<h3>Iaido</h3><p>Mondays: 6&ndash;7 p.m. Sundays: 7&ndash;8:30 a.m.</p><h3>Kendo</h3><p>Mondays: 7&ndash;8 p.m. Wednesdays: 8&ndash;9 p.m. Fridays: 8&ndash;9:30 p.m. Sundays: 8:30&ndash;10 a.m.</p>"
+		content = "<h3>Iaido (Japanese Swordsmanship)</h3><p>Mondays: 6&ndash;7 p.m. Sundays: 7&ndash;8:30 a.m.</p><h3>Kendo (Japanese Fencing)</h3><p>Mondays: 7&ndash;8 p.m. Wednesdays: 8&ndash;9 p.m. Fridays: 8&ndash;9:30 p.m. Sundays: 8:30&ndash;10 a.m.</p><p>To join a class, please call Tom Hill <a href=\"tel:+1-570-350-8072\">(570) 350-8072</a> or Katsunori Matsushita <a href=\"tel:+1-570-269-0050\">(570) 269-0050</a></p>"
 
 	[params.directions]
 		hide = false
 		title = "Directions"
-		content = "<p>Our dojo is at the rear of 831-D Ann St., Stroudsburg, PA. Look for a sign that says \"Ensley's Martial Arts.\" We have an off-street parking area.</p><p>We are located off Interstate 80, exit 307. We are only an hour away from Wilkes-Barre and Scranton; and 1 hour 30 minutes from New York City.</p>"
+		content = "<p>Our dojo is at the rear of 831-D Ann St., Stroudsburg, PA. Off-street parking is available. Look for a sign that says \"Ensley's Martial Arts.\"</p><p>We are located near Interstate 80, exit 307. We are an hour away from Wilkes-Barre and Scranton; and 1 hour 30 minutes from New York City.</p>"
 
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = " // **TODO: SET UP FORM SO IT WORKS.** // Would you like to train in Iaido or Kendo? Do you have a question for Matsushita Sensei about martial arts? Send us a message with the form below. We will respond as soon as possible."
+		content = "Do you have questions about Iaido or Kendo? Please submit your questions with the form below. We will respond as soon as possible. // **TODO: SET UP FORM SO IT WORKS.** // "
 
 		# This can be exact coordinates or a searchable address in google maps
 		gmaps_address = "40.982062,-75.197148"
@@ -126,9 +126,9 @@ publishDir = "docs"
 			"Stroudsburg, PA 18360",
 			"United States"
 		]
-		phone = "(570) 350-8072"
+		phone = "+1-570-350-8072"
 		phonename = "Tom Hill"
-		phone2 = "(570) 269-0050"
+		phone2 = "+1-570-269-0050"
 		phonename2 = "Katsunori Matsushita"
 
 		# Since this template is static, the contact form uses www.formspree.io as a

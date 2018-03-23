@@ -7,7 +7,7 @@ draft: false
 
 # Matsushita Shuji Sensei
 ### Kendo 7th Dan kyoshi
-
+---
 Matsushita Shuji (松下 修治) was born in 1950 on the island of Kyushu, Japan. Matsushita Sensei started practicing kendo at the age of 7. In 1974, he entered the Shinkage Ryu Integrated Budo Dojo, where he apprenticed for the next seven years in Kendo, Iaido, Taijitsu, Judo and Karate. At 31, he received a Master’s Degree in Shinkage Ryu.
 
 During this time, he left his mark in many tournaments. He finished three times within the Top 8 of the All Tokyo Kendo Championship; Team Division Championship of the Shinjuku Kendo Championship; and the Team and Individual Divisions Champion of the Koshigaya Open Kendo Championship.
@@ -35,5 +35,5 @@ In 2002, Matsushita Sensei founded the Meishin Muso Ryu school of Iaido, with st
 
 # Thomas Hill
 ### Jujitsu 7th Dan, Iaido 4th Dan
-
-Professor Thomas Hill has studied Danzan Ryu Jujitsu since 1971. In 1982 he opened his dojo, Shumpukan, in Stroudsburg, Pennsylvania. He holds the rank of 4th Dan in Iaido in the Meishin Muso Ryu style; and the rank of 3rd Dan in Kendo with the All United States Kendo Federation.
+---
+Professor Thomas Hill has studied Danzan Ryu Jujitsu since 1971. In 1982, he opened his dojo, Shumpukan, in Stroudsburg. He holds the rank of 4th Dan in Iaido in the Meishin Muso Ryu style; and the rank of 3rd Dan in Kendo with the All United States Kendo Federation.
