@@ -12,7 +12,7 @@ Matsushita Shuji (松下 修治) was born in 1950 on the island of Kyushu, Japan
 
 During this time, he left his mark in many tournaments. He finished three times within the Top 8 of the All Tokyo Kendo Championship; Team Division Championship of the Shinjuku Kendo Championship; and the Team and Individual Divisions Champion of the Koshigaya Open Kendo Championship.
 
-In 1978, Matsushita Sensei was featured in the documentary, <a href="https://en.wikipedia.org/wiki/Budo:_The_Art_of_Killing" target="_blank">*Budo*</a>, which won awards at the Miami International Film Festival.
+In 1978, Matsushita Sensei was featured in the martial arts documentary, <a href="https://en.wikipedia.org/wiki/Budo:_The_Art_of_Killing" target="_blank">*Budo*</a>, which won awards at the Miami International Film Festival.
 
 In 1998, he founded Shu Do Kan Dojo in Stroudsburg, Pennsylvania, teaching classes in Kendo, Iaido and Taijitsu. He also coached and taught the Cornell Kendo Club, the Rochester Institute of Technology Kendo Club and the Towanda High School Kendo Club.
 
