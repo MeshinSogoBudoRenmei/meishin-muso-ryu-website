@@ -17,10 +17,11 @@
       <pubDate>Sat, 24 Mar 2018 22:56:46 -0400</pubDate>
       
       <guid>https://codewritingcow.github.io/meishin-muso-ryu-website/post/kendo-instagram/</guid>
-      <description>Embedding Instagram We can easily embed Instagram photos with hashtags, using Hugo shortcodes.
-A post shared by Shuji Matsushita (@shujimatsushita) on Oct 2, 2016 at 3:54pm PDT
-   Nito kento fight (2 sword) at Detroit Kendo Tournament
-A post shared by Gary Pang (@pangofhunger) on Feb 18, 2018 at 12:47pm PST</description>
+      <description>&lt;h2 id=&#34;embedding-instagram&#34;&gt;Embedding Instagram&lt;/h2&gt;
+
+&lt;p&gt;We can easily embed Instagram photos with hashtags, using &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;&gt;Hugo shortcodes.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -11,6 +11,8 @@ title = "Kendo Instagram"
 
 We can easily embed Instagram photos with hashtags, using [Hugo shortcodes.](https://gohugo.io/content-management/shortcodes/)
 
+<!--more-->
+
 {{< instagram BLE_nmJBlRD >}}
 {{< instagram BfWhhC2FHXt >}}
 
