@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuji Matsushita on Meishin Muso Ryu</title>
+    <link>https://codewritingcow.github.io/meishin-muso-ryu-website/tags/shuji-matsushita/</link>
+    <description>Recent content in Shuji Matsushita on Meishin Muso Ryu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Mar 2018 22:56:46 -0400</lastBuildDate>
+    
+	<atom:link href="https://codewritingcow.github.io/meishin-muso-ryu-website/tags/shuji-matsushita/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kendo Instagram</title>
+      <link>https://codewritingcow.github.io/meishin-muso-ryu-website/post/kendo-instagram/</link>
+      <pubDate>Sat, 24 Mar 2018 22:56:46 -0400</pubDate>
+      
+      <guid>https://codewritingcow.github.io/meishin-muso-ryu-website/post/kendo-instagram/</guid>
+      <description>Embedding Instagram We can easily embed Instagram photos with hashtags, using Hugo shortcodes.
+A post shared by Shuji Matsushita (@shujimatsushita) on Oct 2, 2016 at 3:54pm PDT
+   Nito kento fight (2 sword) at Detroit Kendo Tournament
+A post shared by Gary Pang (@pangofhunger) on Feb 18, 2018 at 12:47pm PST</description>
+    </item>
+    
+  </channel>
+</rss>
