@@ -9,6 +9,7 @@ googleAnalytics = ""
 paginate = 10
 # Change Hugo publish directory to docs, so website can be deployed to GitHub Pages
 publishDir = "docs"
+relativeURLs = "true"
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
@@ -45,7 +46,7 @@ publishDir = "docs"
 
 		copyright = [
 			"&copy; Meishin Ryu Sogo Budo Renmei",
-			"Design: [HTML5 UP](//html5up.net)"
+			"Design: [Gary Pang](//codewritingcow.com)"
 		]
 	
 	[params.rss]
@@ -55,7 +56,7 @@ publishDir = "docs"
 	[params.about]
 		hide  = false
 		title = "Meishin Muso Ryu"
-		content = "<p>Meishin Muso Ryu (明神無想流) is an Iaido style passed down from Shinkage Ryu. Our head is Matsushita Shuji Sensei.</p><p>We teach Iaido and Kendo classes. Our dojo is in the Poconos region of Pennsylvania. We invite you to train with us.</p>"
+		content = "<p>Meishin Muso Ryu (明神無想流) is an Iaido style passed down from Shinkage Ryu. Our head is <a href='/instructors/'>Matsushita Shuji Sensei.</a></p><p>We teach Iaido and Kendo classes. Our dojo is in the Poconos region of Pennsylvania. We invite you to train with us.</p>"
 
 
 	[params.portfolio]
