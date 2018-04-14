@@ -1,4 +1,4 @@
-baseurl = "https://codewritingcow.github.io/meishin-muso-ryu-website/"
+baseurl = "http://www.meishinmusoryu.com/"
 languageCode = "en-us"
 title = "Meishin Muso Ryu"
 theme = "hugo-strata-theme"
@@ -46,7 +46,7 @@ relativeURLs = "true"
 
 		copyright = [
 			"&copy; Meishin Ryu Sogo Budo Renmei",
-			"Design: [Gary Pang](//codewritingcow.com)"
+			"Website made by: [Gary Pang](//codewritingcow.com)"
 		]
 	
 	[params.rss]

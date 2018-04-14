@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shuji Matsushita on Meishin Muso Ryu</title>
-    <link>https://codewritingcow.github.io/meishin-muso-ryu-website/tags/shuji-matsushita/</link>
+    <link>http://www.meishinmusoryu.com/tags/shuji-matsushita/</link>
     <description>Recent content in Shuji Matsushita on Meishin Muso Ryu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Mar 2018 22:56:46 -0400</lastBuildDate>
     
-	<atom:link href="https://codewritingcow.github.io/meishin-muso-ryu-website/tags/shuji-matsushita/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.meishinmusoryu.com/tags/shuji-matsushita/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kendo Instagram</title>
-      <link>https://codewritingcow.github.io/meishin-muso-ryu-website/post/kendo-instagram/</link>
+      <link>http://www.meishinmusoryu.com/post/kendo-instagram/</link>
       <pubDate>Sat, 24 Mar 2018 22:56:46 -0400</pubDate>
       
-      <guid>https://codewritingcow.github.io/meishin-muso-ryu-website/post/kendo-instagram/</guid>
+      <guid>http://www.meishinmusoryu.com/post/kendo-instagram/</guid>
       <description>&lt;h2 id=&#34;embedding-instagram&#34;&gt;Embedding Instagram&lt;/h2&gt;
 
 &lt;p&gt;We can easily embed Instagram photos with hashtags, using &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;&gt;Hugo shortcodes.&lt;/a&gt;&lt;/p&gt;
