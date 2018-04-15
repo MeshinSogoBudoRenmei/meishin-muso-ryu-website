@@ -29,12 +29,11 @@ Here are some of the instructors and members of Meishin Muso Ryu. Full list comi
 
 ### Michael Luckenbill
 * Kendo rank: 1st dan
-<!-- * Award: Third place, Men's Kyu division, Boston Goyokai Tournament 2016 -->
+* Iaido rank: 2nd dan
 
 ### Gary Pang
 * Kendo rank: 1st dan
-* Iaido rank: Sankyu
-<!-- * Award: Third place, Mudansha division, Garden State Kendo Tournament 2016 -->
+* Iaido rank: 3rd kyu
 
 <!-- ### Marcus Hawkins -->
 
