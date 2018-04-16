@@ -15,7 +15,7 @@ relativeURLs = "true"
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Meishin Muso Ryu"
-	description = "Official website of Meishin Muso Ryu (明神無想流), an Iaido style passed down from Shinkage Ryu"
+	description = "Official website of Meishin Muso Ryu (明神無想流), an Iaido style passed down from Shinkage Ryu (神影流)"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -56,7 +56,7 @@ relativeURLs = "true"
 	[params.about]
 		hide  = false
 		title = "Meishin Muso Ryu"
-		content = "<p>Meishin Muso Ryu (明神無想流) is an Iaido style passed down from Shinkage Ryu. Our head is <a href='/instructors/'>Matsushita Shuji Sensei.</a></p><p>We teach Iaido and Kendo classes. Our dojo is in the Poconos region of Pennsylvania. We invite you to train with us.</p>"
+		content = "<p>Meishin Muso Ryu (明神無想流) is an Iaido style passed down from Shinkage Ryu (神影流). Our head is <a href='/instructors/'>Matsushita Shuji Sensei.</a></p><p>We teach Iaido and Kendo classes. Our dojo is in the Poconos region of Pennsylvania. We invite you to train with us.</p>"
 
 
 	[params.portfolio]
