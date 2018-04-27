@@ -31,6 +31,10 @@ Here are some of the instructors and members of Meishin Muso Ryu. Full list comi
 * Kendo rank: 1st dan
 * Iaido rank: 2nd dan
 
+### Pete Kraus
+* Kendo rank: Mudansha
+* Iaido rank: 1st dan
+
 ### Gary Pang
 * Kendo rank: 1st dan
 * Iaido rank: 3rd kyu
@@ -38,7 +42,4 @@ Here are some of the instructors and members of Meishin Muso Ryu. Full list comi
 <!-- ### Marcus Hawkins -->
 
 ### Melissa Kestle
-* Kendo rank: Mudansha
-
-### Pete Kraus
 * Kendo rank: Mudansha
