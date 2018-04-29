@@ -14,6 +14,7 @@ Here are some of the instructors and members of Meishin Muso Ryu. Full list comi
 
 ### Matsushita Katsunori
 * Kendo rank: 5th dan
+* Iaido rank: 5th dan
 
 <!-- ### Matsushita Kensaku -->
 
@@ -26,6 +27,7 @@ Here are some of the instructors and members of Meishin Muso Ryu. Full list comi
 
 ### Rajagopalan Subrahmanian
 * Kendo rank: 3rd dan
+* Iaido rank: 3rd dan
 
 ### Michael Luckenbill
 * Kendo rank: 1st dan
