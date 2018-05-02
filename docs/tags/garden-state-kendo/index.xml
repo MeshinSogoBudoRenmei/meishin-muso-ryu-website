@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Meishin Muso Ryu</title>
-    <link>http://www.meishinmusoryu.com/post/</link>
-    <description>Recent content in Posts on Meishin Muso Ryu</description>
+    <title>Garden State Kendo on Meishin Muso Ryu</title>
+    <link>http://www.meishinmusoryu.com/tags/garden-state-kendo/</link>
+    <description>Recent content in Garden State Kendo on Meishin Muso Ryu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Apr 2018 01:22:08 -0400</lastBuildDate>
     
-	<atom:link href="http://www.meishinmusoryu.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.meishinmusoryu.com/tags/garden-state-kendo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,17 +18,6 @@
       
       <guid>http://www.meishinmusoryu.com/post/garden-state-kendo-tournament-2018/</guid>
       <description>&lt;p&gt;We participated Saturday in the 2018 Garden State Kendo Tournament. Every year, this excellent tournament attracts competitors from New York to Canada.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Meishin Muso Ryu Official Website</title>
-      <link>http://www.meishinmusoryu.com/post/meishin-muso-ryu-official-website/</link>
-      <pubDate>Mon, 23 Apr 2018 15:55:59 -0400</pubDate>
-      
-      <guid>http://www.meishinmusoryu.com/post/meishin-muso-ryu-official-website/</guid>
-      <description>&lt;p&gt;Welcome to the official website of Meishin Muso Ryu, an Iaido style passed down from Shinkage Ryu.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
