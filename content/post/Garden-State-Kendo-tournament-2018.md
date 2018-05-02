@@ -1,7 +1,6 @@
 ---
 title: "Garden State Kendo Tournament 2018"
 date: 2018-04-29T01:22:08-04:00
-draft: true
 categories: ["Kendo"]
 tags: ["Shudokan", "Tournament", "Garden State Kendo", "GSK", "New Jersey"]
 ---

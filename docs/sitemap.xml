@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.meishinmusoryu.com/post/garden-state-kendo-tournament-2018/</loc>
+    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.meishinmusoryu.com/post/meishin-muso-ryu-official-website/</loc>
     <lastmod>2018-04-23T15:55:59-04:00</lastmod>
   </url>
@@ -28,8 +33,26 @@
   </url>
   
   <url>
+    <loc>http://www.meishinmusoryu.com/tags/garden-state-kendo/</loc>
+    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/gsk/</loc>
+    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/categories/kendo/</loc>
+    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.meishinmusoryu.com/</loc>
-    <lastmod>2018-04-23T15:55:59-04:00</lastmod>
+    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,8 +63,20 @@
   </url>
   
   <url>
+    <loc>http://www.meishinmusoryu.com/tags/new-jersey/</loc>
+    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.meishinmusoryu.com/post/</loc>
-    <lastmod>2018-04-23T15:55:59-04:00</lastmod>
+    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/shudokan/</loc>
+    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,7 +88,13 @@
   
   <url>
     <loc>http://www.meishinmusoryu.com/tags/</loc>
-    <lastmod>2018-04-23T15:55:59-04:00</lastmod>
+    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/tournament/</loc>
+    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
     <priority>0</priority>
   </url>
   
