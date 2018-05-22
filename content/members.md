@@ -45,3 +45,4 @@ Here are some of the instructors and members of Meishin Muso Ryu. Full list comi
 
 ### Melissa Kestle
 * Kendo rank: Mudansha
+* Iaido rank: 6th kyu
