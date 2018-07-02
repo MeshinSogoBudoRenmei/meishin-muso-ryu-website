@@ -11,3 +11,8 @@
     width:100%;
     position:absolute;
 }
+/* Fixes bug specific to Microsoft Edge, where parallax background image jumps up and down
+   Image is part of Hugo's Strata theme */
+_:-ms-lang(x), #header { 
+    background-attachment:scroll;
+}
