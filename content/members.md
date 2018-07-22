@@ -29,6 +29,12 @@ Here are some of the instructors and members of Meishin Muso Ryu. Full list comi
 * Kendo rank: 3rd dan
 * Iaido rank: 3rd dan
 
+### Namsoo Kim
+* Kendo rank: 3rd dan
+
+### Eunju Choi
+* Kendo rank: 3rd dan
+
 ### Michael Luckenbill
 * Kendo rank: 1st dan
 * Iaido rank: 2nd dan
