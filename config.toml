@@ -74,6 +74,12 @@ relativeURLs = "true"
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
+			title = "Inoue Dojo in Tokyo 2017"
+			description = "Matsushita sensei trains with Shinozuka sensei and Kamei sensei"
+
+		[[params.portfolio.gallery]]
+			image = "fulls/03.jpg"
+			thumb = "thumbs/03.jpg"
 			title = "Meishin Muso Ryu Seminar 2014"
 			description = "Group picture from our first seminar"
 
@@ -90,16 +96,10 @@ relativeURLs = "true"
 			description = "Three-Person Iaido demonstration"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "Scene from *Budo*"
-			description = "Matsushita Sensei performs *chiburi*"
-
-		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
 			title = "Scene from *Budo*"
-			description = "Matsushita Sensei (right) and Fukaya Sensei spar"
+			description = "Matsushita Sensei performs *chiburi*"			
 
 	[params.recentposts]
 		hide  = true
