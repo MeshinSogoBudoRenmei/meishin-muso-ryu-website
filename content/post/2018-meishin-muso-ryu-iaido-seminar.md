@@ -1,7 +1,6 @@
 ---
 title: "2018 Meishin Muso Ryu Iaido Seminar"
 date: 2018-08-11T23:13:59-04:00
-draft: true
 categories: ["Iaido"]
 tags: ["Meishin Muso Ryu", "Seminar"]
 ---
