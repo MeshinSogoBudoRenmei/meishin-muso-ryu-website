@@ -102,7 +102,7 @@ relativeURLs = "true"
 			description = "Matsushita Sensei performs *chiburi*"			
 
 	[params.recentposts]
-		hide  = true
+		hide  = false
 		title = "Recent blog posts"
 	
 	[params.schedule]
