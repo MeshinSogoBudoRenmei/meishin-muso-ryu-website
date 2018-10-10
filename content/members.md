@@ -49,6 +49,9 @@ Here are some of the instructors and members of Meishin Muso Ryu. Full list comi
 * Iaido rank: Shodan
 * Kendo rank: Mudansha
 
+### Fred Speece
+* Iaido rank: Ikkyu
+
 ### Gary Pang
 * Iaido rank: Nikyu
 * Kendo rank: Shodan
@@ -77,6 +80,3 @@ Here are some of the instructors and members of Meishin Muso Ryu. Full list comi
 ### Melissa Kestle
 * Iaido rank: Rokukyu
 * Kendo rank: Mudansha
-
-<!-- ### Fred Speece -->
-<!-- * Iaido rank: ??? -->
