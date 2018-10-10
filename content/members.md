@@ -10,55 +10,73 @@ Here are some of the instructors and members of Meishin Muso Ryu. Full list comi
 # Instructors
 
 ### Matsushita Shuji Sensei
-* Kendo rank: 7th dan kyoshi
+* Kendo rank: Nanadan kyoshi
 
 ### Matsushita Katsunori
-* Kendo rank: 5th dan
-* Iaido rank: 5th dan
+* Iaido rank: Rokudan
+* Kendo rank: Godan
 
 <!-- ### Matsushita Kensaku -->
 
 ### Thomas Hill
-* Kendo rank: 3rd dan
-* Iaido rank: 4th dan
+* Iaido rank: Godan
+* Kendo rank: Sandan
 
 ---
 # Members
 
 ### Rajagopalan Subrahmanian
-* Kendo rank: 3rd dan
-* Iaido rank: 3rd dan
+* Iaido rank: Sandan
+* Kendo rank: Sandan
 
 ### Namsoo Kim
-* Kendo rank: 3rd dan
+* Kendo rank: Sandan
 
 ### Eunju Choi
-* Kendo rank: 3rd dan
+* Kendo rank: Sandan
 
 ### Michael Luckenbill
-* Kendo rank: 1st dan
-* Iaido rank: 2nd dan
+* Iaido rank: Nidan
+* Kendo rank: Shodan
+
+### Suzanne Bachman
+* Iaido rank: Nidan
 
 ### Matt Fried
-* Iaido rank: 1st dan
+* Iaido rank: Shodan
 
 ### Pete Kraus
+* Iaido rank: Shodan
 * Kendo rank: Mudansha
-* Iaido rank: 1st dan
 
 ### Gary Pang
-* Kendo rank: 1st dan
-* Iaido rank: 2nd kyu
+* Iaido rank: Nikyu
+* Kendo rank: Shodan
 
 ### John Ferguson
-* Iaido rank: 2nd kyu
+* Iaido rank: Nikyu
 
-### Marcus Hawkins
-* Iaido rank: 3rd kyu
+### Patrick Hedgepath
+* Iaido rank: Nikyu
+
+### John Morrison
+* Iaido rank: Nikyu
+
+### Joseph Serio
+* Iaido rank: Nikyu
 
 ### Keith Bowers
-* Iaido rank: 3rd kyu
+* Iaido rank: Sankyu
+
+### Marcus Hawkins
+* Iaido rank: Sankyu
+
+### Mary McGinn
+* Iaido rank: Sankyu
 
 ### Melissa Kestle
+* Iaido rank: Rokukyu
 * Kendo rank: Mudansha
-* Iaido rank: 6th kyu
+
+<!-- ### Fred Speece -->
+<!-- * Iaido rank: ??? -->
