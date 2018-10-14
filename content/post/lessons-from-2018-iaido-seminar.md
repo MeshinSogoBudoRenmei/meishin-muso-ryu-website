@@ -1,7 +1,7 @@
 ---
 title: "Lessons from 2018 Iaido Seminar"
 date: 2018-09-25T03:09:20-04:00
-draft: true
+draft: false
 categories: ["Iaido"]
 tags: ["Meishin Muso Ryu", "Seminar", "Shuji Matsushita"]
 ---
