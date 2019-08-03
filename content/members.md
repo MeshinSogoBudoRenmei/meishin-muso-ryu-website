@@ -27,17 +27,17 @@ Here are some of the instructors and members of Meishin Muso Ryu. Full list comi
 
 ### Rajagopalan Subrahmanian
 * Iaido rank: Sandan
-* Kendo rank: Sandan
+* Kendo rank: Yondan
 
 ### Namsoo Kim
-* Kendo rank: Sandan
+* Kendo rank: Yondan
 
 ### Eunju Choi
 * Kendo rank: Sandan
 
 ### Michael Luckenbill
 * Iaido rank: Nidan
-* Kendo rank: Shodan
+* Kendo rank: Nidan
 
 ### Suzanne Bachman
 * Iaido rank: Nidan
@@ -54,7 +54,7 @@ Here are some of the instructors and members of Meishin Muso Ryu. Full list comi
 
 ### Gary Pang
 * Iaido rank: Nikyu
-* Kendo rank: Shodan
+* Kendo rank: Nidan
 
 ### John Ferguson
 * Iaido rank: Nikyu

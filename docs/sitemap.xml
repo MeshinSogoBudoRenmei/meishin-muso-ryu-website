@@ -3,13 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.meishinmusoryu.com/categories/</loc>
+    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/categories/iaido/</loc>
+    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/meishin-muso-ryu/</loc>
+    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/</loc>
+    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/palmetto-fall-clinic/</loc>
+    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.meishinmusoryu.com/post/palmetto-fall-clinic/</loc>
     <lastmod>2018-10-30T03:29:34-04:00</lastmod>
   </url>
   
   <url>
+    <loc>http://www.meishinmusoryu.com/post/</loc>
+    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/seminar/</loc>
+    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/shuji-matsushita/</loc>
+    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/</loc>
+    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.meishinmusoryu.com/post/2018-goyokai-kendo-tournament/</loc>
     <lastmod>2018-10-22T16:59:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/goyokai-kendo-tournament/</loc>
+    <lastmod>2018-10-22T16:59:11-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/categories/kendo/</loc>
+    <lastmod>2018-10-22T16:59:11-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/shudokan/</loc>
+    <lastmod>2018-10-22T16:59:11-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/shufukai/</loc>
+    <lastmod>2018-10-22T16:59:11-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -23,37 +101,8 @@
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/post/shudokan-kendo-godogeiko-2018/</loc>
+    <loc>http://www.meishinmusoryu.com/tags/gsk/</loc>
     <lastmod>2018-07-23T22:30:20-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/post/garden-state-kendo-tournament-2018/</loc>
-    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/post/meishin-muso-ryu-official-website/</loc>
-    <lastmod>2018-04-23T15:55:59-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/videos/</loc>
-    <lastmod>2018-02-27T03:42:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/members/</loc>
-    <lastmod>2018-02-27T03:14:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/instructors/</loc>
-    <lastmod>2018-02-27T03:11:12-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -66,24 +115,6 @@
   <url>
     <loc>http://www.meishinmusoryu.com/tags/godogeiko/</loc>
     <lastmod>2018-07-23T22:30:20-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/goyokai-kendo-tournament/</loc>
-    <lastmod>2018-10-22T16:59:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/gsk/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/categories/iaido/</loc>
-    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -106,74 +137,30 @@
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/categories/kendo/</loc>
-    <lastmod>2018-10-22T16:59:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.meishinmusoryu.com/tags/kenshinkai/</loc>
     <lastmod>2018-07-23T22:30:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/</loc>
-    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
+    <loc>http://www.meishinmusoryu.com/post/shudokan-kendo-godogeiko-2018/</loc>
+    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/vincent-lan/</loc>
+    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/tags/meishin-muso-ryu/</loc>
-    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
-    <priority>0</priority>
+    <loc>http://www.meishinmusoryu.com/post/garden-state-kendo-tournament-2018/</loc>
+    <lastmod>2018-04-29T01:22:08-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.meishinmusoryu.com/tags/new-jersey/</loc>
     <lastmod>2018-04-29T01:22:08-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/palmetto-fall-clinic/</loc>
-    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/post/</loc>
-    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/seminar/</loc>
-    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/shudokan/</loc>
-    <lastmod>2018-10-22T16:59:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/shufukai/</loc>
-    <lastmod>2018-10-22T16:59:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/shuji-matsushita/</loc>
-    <lastmod>2018-10-30T03:29:34-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -184,15 +171,29 @@
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/tags/vincent-lan/</loc>
-    <lastmod>2018-07-23T22:30:20-04:00</lastmod>
-    <priority>0</priority>
+    <loc>http://www.meishinmusoryu.com/post/meishin-muso-ryu-official-website/</loc>
+    <lastmod>2018-04-23T15:55:59-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.meishinmusoryu.com/categories/website/</loc>
     <lastmod>2018-04-23T15:55:59-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/videos/</loc>
+    <lastmod>2018-02-27T03:42:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/members/</loc>
+    <lastmod>2018-02-27T03:14:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/instructors/</loc>
+    <lastmod>2018-02-27T03:11:12-05:00</lastmod>
   </url>
   
 </urlset>
