@@ -32,7 +32,7 @@ relativeURLs = "true"
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.png"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**MEISHIN MUSO RYU**<br> Anytime, Anyplace, Any Situation"
+		bio = "**MEISHIN MUSO RYU**"
 		# The icons will be shown if you enter your username
 		twitter = "shudokandojo"
 		youtube = "MeishinMusoRyu"
