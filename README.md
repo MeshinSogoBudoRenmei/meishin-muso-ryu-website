@@ -1,4 +1,4 @@
-![Screenshot of homepage](https://github.com/MeshinSogoBudoRenmei/meishin-muso-ryu-website/blob/readme/screenshot.png)
+![Screenshot of homepage](https://github.com/MeshinSogoBudoRenmei/meishin-muso-ryu-website/blob/master/screenshot.png)
 
 # MeishinMusoRyu.com
 This repository contains the source for [MeishinMusoRyu.com](http://meishinmusoryu.com), official website of Meishin Muso Ryu, a Japanese swordsmanship school. Our head is Shuji Matsushita Sensei.
