@@ -9,6 +9,9 @@ Shudokan and Ken Wa Kan trained together during our monthly godogeiko on Aug. 17
 
 <!--more-->
 
+{{< youtube gurwLtvDZrc >}}
+**Shuji Matsushita** Sensei and Lan Sensei train together during August's godogeiko.
+
 {{< instagram B1X2WMAJNY4 hidecaption >}}
 
 Our dojos have been holding monthly joint practices. Thank you to Lan Sensei and his students for hosting us this month!
