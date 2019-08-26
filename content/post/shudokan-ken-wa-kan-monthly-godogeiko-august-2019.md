@@ -5,7 +5,7 @@ categories: ["Kendo"]
 tags: ["Godogeiko", "Ken Wa Kan", "Shudokan", "Shuji Matsushita", "Vincent Lan"]
 ---
 
-Shudokan and Ken Wa Kan trained together during our monthly godogeiko on Aug. 18, 2019. KWK and **Vincent Lan** Sensei hosted this month's joint practice at Marple Newtown Recreation in Newtown, PA.
+Shudokan and Ken Wa Kan trained together during our monthly godogeiko on Aug. 17, 2019. KWK and **Vincent Lan** Sensei hosted this month's joint practice at Marple Newtown Recreation in Newtown, PA.
 
 <!--more-->
 
