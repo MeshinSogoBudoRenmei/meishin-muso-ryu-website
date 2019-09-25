@@ -1,7 +1,9 @@
 ---
 title: "2019 Meishin Muso Ryu Iaido Seminar Photo"
 date: 2019-09-24T22:31:51-04:00
-draft: true
+draft: false
+categories: ["Iaido"]
+tags: ["Meishin Muso Ryu", "Seminar", "Shuji Matsushita"]
 ---
 Meishin Muso Ryu held an iaido seminar from Sept. 14-15, 2019, at Shudokan Dojo in Stroudsburg, PA. Participants learned from **Shuji Matsushita** Sensei as they trained in iaido basics and kata practice.
 

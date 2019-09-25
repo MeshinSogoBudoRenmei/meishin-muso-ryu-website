@@ -1,7 +1,7 @@
 ---
 title: "Shudokan-Ken Wa Kan Monthly Godogeiko for September 2019"
 date: 2019-09-24T22:26:19-04:00
-draft: true
+draft: false
 categories: ["Kendo"]
 tags: ["Godogeiko", "Ken Wa Kan", "Shudokan", "Shuji Matsushita", "Vincent Lan"]
 ---
