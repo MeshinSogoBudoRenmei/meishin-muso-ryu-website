@@ -20,7 +20,7 @@ Here are some of the instructors and members of Meishin Muso Ryu. Full list comi
 
 ### Thomas Hill
 * Iaido rank: Godan
-* Kendo rank: Sandan
+* Kendo rank: Yondan
 
 ---
 # Members
