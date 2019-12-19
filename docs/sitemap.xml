@@ -3,14 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.meishinmusoryu.com/post/2019-new-york-kendo-shinsa/</loc>
-    <lastmod>2019-10-20T23:05:00-05:00</lastmod>
+    <loc>http://www.meishinmusoryu.com/post/2019-goyokai-kendo-tournament-results/</loc>
+    <lastmod>2019-11-17T23:38:27-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.meishinmusoryu.com/categories/</loc>
-    <lastmod>2019-10-20T23:05:00-05:00</lastmod>
+    <lastmod>2019-11-17T23:38:27-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/goyokai-kendo-tournament/</loc>
+    <lastmod>2019-11-17T23:38:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/categories/kendo/</loc>
+    <lastmod>2019-11-17T23:38:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/</loc>
+    <lastmod>2019-11-17T23:38:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/post/</loc>
+    <lastmod>2019-11-17T23:38:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/shudokan/</loc>
+    <lastmod>2019-11-17T23:38:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/shufukai/</loc>
+    <lastmod>2019-11-17T23:38:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/shuji-matsushita/</loc>
+    <lastmod>2019-11-17T23:38:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/tags/</loc>
+    <lastmod>2019-11-17T23:38:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.meishinmusoryu.com/post/2019-new-york-kendo-shinsa/</loc>
+    <lastmod>2019-10-20T23:05:00-05:00</lastmod>
   </url>
   
   <url>
@@ -20,37 +73,7 @@
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/categories/kendo/</loc>
-    <lastmod>2019-10-20T23:05:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/</loc>
-    <lastmod>2019-10-20T23:05:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/post/</loc>
-    <lastmod>2019-10-20T23:05:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.meishinmusoryu.com/tags/shinsa/</loc>
-    <lastmod>2019-10-20T23:05:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/shudokan/</loc>
-    <lastmod>2019-10-20T23:05:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/</loc>
     <lastmod>2019-10-20T23:05:00-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -74,12 +97,6 @@
   
   <url>
     <loc>http://www.meishinmusoryu.com/tags/seminar/</loc>
-    <lastmod>2019-09-24T22:31:51-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/shuji-matsushita/</loc>
     <lastmod>2019-09-24T22:31:51-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -123,12 +140,6 @@
   </url>
   
   <url>
-    <loc>http://www.meishinmusoryu.com/tags/shufukai/</loc>
-    <lastmod>2019-08-03T19:09:03-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.meishinmusoryu.com/tags/palmetto-fall-clinic/</loc>
     <lastmod>2018-10-30T03:29:34-04:00</lastmod>
     <priority>0</priority>
@@ -142,12 +153,6 @@
   <url>
     <loc>http://www.meishinmusoryu.com/post/2018-goyokai-kendo-tournament/</loc>
     <lastmod>2018-10-22T16:59:11-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.meishinmusoryu.com/tags/goyokai-kendo-tournament/</loc>
-    <lastmod>2018-10-22T16:59:11-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
